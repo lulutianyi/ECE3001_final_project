@@ -1,0 +1,8 @@
+torch
+torchaudio
+torchvision
+numpy
+matplotlib
+scikit-learn
+tqdm
+nbformat
